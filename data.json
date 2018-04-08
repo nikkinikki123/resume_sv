@@ -1,0 +1,49 @@
+  {
+    "basics":
+    {
+    "photo":"index.png",
+    "name":"N.Nikhitha",
+    "phone":"9999999999",
+    "email":"nikkipn234@gmail.com"
+  },
+  "skills":[
+    {
+      "name":"programming languages",
+      "value":"C,C++,JAVA"
+    },
+    {
+      "name":"operating systems",
+      "value":"windows,linux"
+    },
+    {
+      "name":"web technologies",
+      "value":"HTML,CSS,JAVASCRIPT,PYTHON"
+    }
+],
+"education":[
+  {
+    "course":"B.tech(computer science and engineering)",
+    "college":[
+      "sri venkateswara institute of technology",
+      "2015-2019",
+      "80%"
+    ]
+  },
+  {
+    "course":"intermediate(m.p.c)",
+    "college":[
+      "sri narayana jr college",
+      "2013-2015",
+      "90%"
+    ]
+  },
+  {
+    "course":"ssc",
+    "college":[
+      "st vincent de paul e.m high school",
+      "2012-2013",
+      "90%"
+    ]
+  }
+]
+}

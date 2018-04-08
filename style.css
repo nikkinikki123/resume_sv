@@ -1,3 +1,26 @@
+img{
+  width:200px;
+}
+h1,h2{
+  font-style:italic;
+}
+table td,tr{
+  border:2px solid #000;
+  border-collapse: collapse;
+  padding: 2px;
+  background-color: blue;
+  background-position: right;
+}
+
+
+
+
+
+
+
+
+
+
 .main{
   border: 2px solid #000;
   display: flex;
@@ -6,6 +29,7 @@
   }
 .left{
   background-color: #999;
+  border-color: pink;
   border: 2px solid #000;
   margin: 5px;
   padding: 5px;
@@ -14,6 +38,7 @@
   background-color: #888;
   flex: 3;
   border: 2px solid #000;
+  border-color:gold;
   margin: 5px;
 
 }
@@ -60,4 +85,4 @@
     background-color: #9976;
     border: 2px solid #000;
     margin: 5px;
-}ssssss
+}
