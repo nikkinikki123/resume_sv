@@ -1,0 +1,23 @@
+.main{
+  display: flex;
+  border: 3px solid #000;
+  border-color: black;
+}
+.left{
+  color: black;
+  font-style: italic;
+  border-radius: 3px;
+  background-color: grey;
+  margin: 2px;
+  flex:2;
+  border-color: black;
+}
+.right{
+  color: black;
+  border-radius: 3px;
+  font-size: 10px;
+  background-color: grey;
+  margin: 2px;
+  flex:2;
+  border-color: black;
+}
